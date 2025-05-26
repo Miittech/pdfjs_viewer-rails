@@ -1,3 +1,17 @@
+## Unreleased
+
+## 0.3.2
+
+- Add support for Rails 6
+
+## 0.3.1
+
+- Add a cache defeating per version query string to the pdf.worker.js
+
+## 0.3.0
+
+- Update PDF.js to 1.10.100
+
 ## 0.2.0
 
 - Allow customizing the viewer (see https://github.com/senny/pdfjs_viewer-rails#customizing-the-viewer)
